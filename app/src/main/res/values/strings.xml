@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="common_back">Назад</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_allow">Разрешить</string>
+    <string name="common_open_settings">Открыть настройки</string>
+    <string name="common_not_selected">не выбрана</string>
+
+    <string name="home_title">Главный экран</string>
+    <string name="home_selected_folder">Папка сохранения: %1$s</string>
+    <string name="home_open_camera">Экран, который фотографирует</string>
+
+    <string name="screen_folder_title">Экран выбора папки сохранения</string>
+    <string name="screen_photos_title">Экран фотографий</string>
+    <string name="screen_photo_details_title">Просмотр снимка</string>
+    <string name="screen_map_title">Экран с картой</string>
+
+    <string name="folder_current_folder">Текущая папка: %1$s</string>
+    <string name="folder_pick_button">Выбрать папку</string>
+    <string name="folder_access_error">Не удалось сохранить доступ к папке</string>
+
+    <string name="photos_empty">Пока пусто. Фотографии будут загружаться из базы.</string>
+    <string name="photos_modified">Изменено: %1$s</string>
+    <string name="photos_date_unknown">-</string>
+    <string name="photos_search_date_label">Поиск по дате съёмки</string>
+    <string name="photos_search_date_placeholder">Например: 31.03.2026, 12:05, 2026-03, 31.03.2026 12:05</string>
+    <string name="photos_search_empty">По этому запросу ничего не найдено.</string>
+    <string name="photo_details_loading">Загрузка снимка…</string>
+    <string name="photo_details_not_found">Снимок не найден</string>
+    <string name="photo_details_uri">URI: %1$s</string>
+
+    <string name="map_placeholder">Карта (заглушка без WebView)</string>
+
+    <string name="camera_permission_required">Нужен доступ к камере</string>
+    <string name="camera_permission_required_message">Разрешите доступ к камере, чтобы открыть превью и сделать снимок.</string>
+    <string name="camera_permission_denied_forever_message">Доступ к камере запрещён навсегда. Разрешение нужно включить в настройках приложения.</string>
+    <string name="camera_location_permission_required">Нужен доступ к геолокации</string>
+    <string name="camera_location_permission_required_message">Разрешите доступ к геолокации, чтобы сохранить координаты снимка.</string>
+    <string name="camera_location_permission_denied_forever_message">Доступ к геолокации запрещён навсегда. Разрешение нужно включить в настройках приложения.</string>
+    <string name="camera_capture_button">Сфотографировать</string>
+    <string name="camera_capture_error">Ошибка: %1$s</string>
+    <string name="camera_dialog_error_title">Ошибка</string>
+    <string name="camera_dialog_success_title">Готово</string>
+    <string name="camera_screen_permission_denied_forever_message">Для экрана камеры нужны разрешения на камеру и геолокацию. Включите их в настройках приложения.</string>
+    <string name="camera_permissions_lost_message">Во время съёмки приложение потеряло доступ к камере или геолокации. Проверьте разрешения в настройках.</string>
+    <string name="camera_opening_message">Запрашиваем разрешения для камеры…</string>
+    <string name="camera_location_unavailable_message">Не удалось определить координаты снимка. Попробуйте ещё раз позже.</string>
+    <string name="camera_prepare_photo_failed_message">Не удалось подготовить файл для сохранения снимка.</string>
+    <string name="camera_capture_failed_message">Не удалось сохранить снимок.</string>
+    <string name="camera_unknown_error">неизвестная ошибка</string>
+    <string name="camera_saved_default_folder">Фото сохранено в Pictures/Alarm</string>
+    <string name="camera_folder_not_selected_error">Сначала выберите папку сохранения</string>
+    <string name="camera_saved_selected_folder">Фото сохранено в выбранную папку</string>
+    <string name="camera_preview_label">Превью камеры</string>
+</resources>
